@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Usertable:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Usertable.war">
+      <element id="artifact" artifact-name="Usertable:war exploded" />
+    </root>
+  </artifact>
+</component>
